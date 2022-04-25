@@ -1,0 +1,35 @@
+
+
+spring:
+ # mvc:
+  # servlet:
+    # path: /xxxx
+  redis:
+    database: 0
+    host: 127.0.0.1
+    port: 6379
+    password: 123456
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+    encoding: UTF-8
+    cache: false
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: root
+    url: jdbc:mysql://127.0.0.1:3306/smbms?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=UTC
+  resources:
+    static-locations: classpath:/templates,classpath:/static/
+  cache:
+    ehcache:
+      config: classpath:ehcache.xml
+mybatis:
+  type-aliases-package: com.hz.security03.pojo
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+
+
+
+
