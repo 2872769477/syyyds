@@ -40,7 +40,7 @@ public class LoginController {
     }
 
     @RequestMapping("/showLogin")
-    public String showLogin1(){
+    public String showLogin2(){
         return "login";
     }
 }
