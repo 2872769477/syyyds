@@ -1,9 +1,73 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="第 1 页" id="kbc0iNHul5lRrZcLtwas">
-    <mxGraphModel>
+    <mxGraphModel dx="1221" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hum29YOOfhqJXpD2X0ia-1" value="文献收集与综述" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="163" y="20" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hum29YOOfhqJXpD2X0ia-2" value="案例选择与数据收集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="147" y="119" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hum29YOOfhqJXpD2X0ia-3" value="风险类型与成因分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="217" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hum29YOOfhqJXpD2X0ia-4" value="监管政策适应性分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="274" y="217" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hum29YOOfhqJXpD2X0ia-5" value="实证分析模型构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="155" y="316" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hum29YOOfhqJXpD2X0ia-6" value="实证结果分析与讨论" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="147" y="415" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hum29YOOfhqJXpD2X0ia-7" value="风险管理与政策建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="147" y="513" width="204" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="hum29YOOfhqJXpD2X0ia-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hum29YOOfhqJXpD2X0ia-1" target="hum29YOOfhqJXpD2X0ia-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hum29YOOfhqJXpD2X0ia-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="hum29YOOfhqJXpD2X0ia-2" target="hum29YOOfhqJXpD2X0ia-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="122" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hum29YOOfhqJXpD2X0ia-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="hum29YOOfhqJXpD2X0ia-2" target="hum29YOOfhqJXpD2X0ia-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="376" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hum29YOOfhqJXpD2X0ia-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.17;entryY=0;rounded=0;" edge="1" parent="1" source="hum29YOOfhqJXpD2X0ia-3" target="hum29YOOfhqJXpD2X0ia-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="122" y="291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hum29YOOfhqJXpD2X0ia-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.83;entryY=0;rounded=0;" edge="1" parent="1" source="hum29YOOfhqJXpD2X0ia-4" target="hum29YOOfhqJXpD2X0ia-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="376" y="291" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hum29YOOfhqJXpD2X0ia-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="hum29YOOfhqJXpD2X0ia-5" target="hum29YOOfhqJXpD2X0ia-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hum29YOOfhqJXpD2X0ia-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="hum29YOOfhqJXpD2X0ia-6" target="hum29YOOfhqJXpD2X0ia-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
